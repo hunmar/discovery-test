@@ -1,0 +1,19 @@
+.content {
+  background-image: url(../../images/letter-blocks-247819.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  padding-left: 150px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.content__tests {
+  background-image: url(../../images/exam.png);
+  background-repeat: repeat;
+  background-size: initial;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  padding-left: 0;
+}

@@ -1,0 +1,9 @@
+@import url(./_image/header__logo_image.css);
+
+.header__logo {
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+

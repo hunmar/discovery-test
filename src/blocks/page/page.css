@@ -1,0 +1,12 @@
+.page {
+  width: 100vw;
+  margin: 0 auto;
+  font-family: 'Comfortaa', cursive;
+  display: flex;
+  flex-direction: column;
+}
+
+.page__tests {
+
+
+}

@@ -1,0 +1,13 @@
+.footer__copyright {
+  position: absolute;
+  top: 15px;
+  right: 30px;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+  color: black;
+}
+
+.copyright__tests {
+  color: #497649;
+}

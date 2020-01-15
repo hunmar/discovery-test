@@ -1,0 +1,7 @@
+@import url(./__copyright/footer__copyright.css);
+
+.footer {
+    height: 50px;
+    border-top: 3px solid white;
+    position: relative;
+}
